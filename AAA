@@ -1,0 +1,861 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+
+<script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)}(window, document,'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '302149851716722');
+      fbq('init', '666447074373136');
+      fbq('init', '435976181239131');
+      fbq('track', 'PageView');
+    </script>
+<noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=302149851716722&ev=PageView&noscript=1"
+    /></noscript>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Quema de Grasa en 3 Semanas</title>
+<link rel="shortcut icon" href="files/favicon.ico">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+<link rel="stylesheet" href="files/com.css">
+<link href="https://fonts.googleapis.com/css2?family=Cabin&family=Montserrat&family=Open+Sans&family=Oswald&display=swap" rel="stylesheet">
+<style>
+    header {
+      background: url("files/headerbg2.png");
+      background-repeat: no-repeat;
+    }
+    h1 {
+      font-size: clamp(1.5em, 1em + 3vw, 2.5em);
+      text-transform: uppercase bold;
+      font-family: 'Montserrat', sans-serif;
+    }
+    .a-btn {
+      text-decoration: none;
+      -webkit-font-smoothing: antialiased;
+      margin: 0;
+      border: 0; 
+      font: inherit; 
+      vertical-align: baseline;
+      color: #2e82bc; 
+      outline: 0; 
+      line-height: 1; 
+      text-align: center; 
+      position:relative!important; display: inline-block!important;
+      border-style: solid; 
+      width: 100%; padding-left: 0!important; padding-right: 0!important; 
+      margin-bottom: 10px; 
+      padding: 22px 44px; border-color: #ff5535; border-width: 0px; 
+      border-radius: 6px; 
+      background: linear-gradient(to bottom, #ff6600 0%, #ff5535 100%); 
+      box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.5); 
+      text-decoration: none!important;
+    }
+    .span-btn {
+      text-decoration: none;
+      -webkit-font-smoothing: antialiased; 
+      text-align: center;
+      margin: 0; 
+      border: 0; 
+      font: inherit;
+      vertical-align: baseline;
+      display: block; 
+      position: relative; 
+      z-index: 1; 
+      padding: 0 15px; 
+      white-space: normal; 
+      font-size: 25px;
+      color: #ffffff; 
+      font-family: Oswald; 
+      font-weight: bold; 
+      text-shadow: #000000 0px 1px 0px;
+      text-decoration: none;
+    }
+    .span-btn2 {
+      -webkit-font-smoothing: antialiased; 
+      text-align: center;
+      padding: 0; border: 0;
+      font: inherit; 
+      vertical-align: baseline; 
+      display: block; 
+      position: relative;
+      z-index: 1; 
+      margin: .2em 0 -.5em; 
+      font-size: 15px; 
+      color: #f5e051; 
+      font-family: Cabin; 
+      font-weight: bold; 
+      font-style: italic;
+      text-shadow: #000000 0px 1px 0px;
+    }
+    .comment {
+      display: block; 
+      padding: 10px 0; 
+      line-height: 20px;
+    }
+    .span {
+      color: #365899; 
+      font-weight: bold;
+    }
+    .answer {
+      color: #444; 
+      -webkit-font-smoothing: antialiased;
+      margin: 0; 
+      padding: 0; 
+      border: 0; 
+      font: inherit; 
+      vertical-align: baseline; 
+      display: block; 
+      padding-top: 10px; 
+      line-height: 20px;
+      padding-left: 9px; 
+      border-left: 1px solid #E9EBEE; margin-left: 50px; padding-bottom: 0;
+    }
+    .classeNova {
+      color: #444; 
+      -webkit-font-smoothing: antialiased; 
+      margin: 0; 
+      padding: 0; 
+      border: 0; 
+      font: inherit; 
+      vertical-align: baseline;
+      font-family: Arial; 
+      background-color:
+      #F6F7F9;
+      font-size: 14px; 
+      padding-top: 20px;"      
+    }
+    .paragrafo {
+      color: #444; 
+      font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+      line-height: 1.5em; 
+      margin: 0;
+      margin-left: 60px; 
+      margin-bottom: 0px;
+    }
+    .like {
+      font-size: 11px; color: #90949c;
+    }
+    .twenty1 {
+      font-weight: 700; 
+      border-bottom: 1px solid #E9EBEE; 
+      display: block; 
+      padding-bottom: 6px;
+    }
+    .imgComment {
+      width: 60px; 
+      height: 50px; 
+      float: left; 
+      padding-right: 10px;
+    }
+    .hide {
+      display: none;
+    }
+    .pirataria h3 {
+      text-transform: uppercase;
+      font-size: 15px;
+      letter-spacing: 5px;
+    }
+    .pirataria b{
+      color: #FFC400;
+    }
+    .pirataria {
+      font-size: 12px;
+      text-align: justify;
+    }
+    footer {
+      background-color: black;
+      padding-top: 25px;
+      padding-bottom: 25px;
+      color: white;
+    }
+    .cpy {
+      font-size: 12px;
+      margin: 37px 0px 20px 0px;
+    }
+    .links a {
+      font-size: 12px;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+<header class="py-3">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-lg-8 text-center">
+<img src="files/ultrasecreto4.png" class="img-fluid my-3">
+<h1>3 SECRETOS PARA PERDER MUCHO PESO EN <font color="red">21 DÍAS</font></h1>
+<div class="embed-responsive embed-responsive-16by9 mb-4">
+<iframe src="https://player.vimeo.com/video/660847143?autoplay=1&loop=1&autopause=0" allowfullscreen></iframe>
+</div>
+<div id="btn" class="mt-3 hide">
+<a href="https://go.hotmart.com/D65042784O?ap=0b3e" class="a-btn" style="text-decoration: none;">
+<span class="span-btn">¡QUIERO HACER EL PROGRAMA!</span>
+<span class="span-btn2">(atención: espacios limitados)</span>
+</a>
+<div class="cards mt-3">
+<img class="img-fluid" src="files/cards/MASTER_CARD.svg"></img>
+<img class="img-fluid" src="files/cards/VISA.svg"></img>
+<img class="img-fluid" src="files/cards/AMEX.svg"></img>
+<img class="img-fluid" src="files/cards/PAYPAL.svg"></img>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<section class="comments py-4">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-lg-8">
+<div class="fb-comments" style="margin-top: 5px;">
+<div class="fb-comments-header">
+<span>21 comentarios</span>
+</div>
+<div class="fb-comments-wrapper" id="1">
+<table class="fb-comments-comment">
+<tbody>
+<tr>
+<td rowspan="3" class="fb-comments-comment-img"><img src="files/profiles/1.jpg"></td>
+<td>
+<font class="fb-comments-comment-name">
+<name>Juan Carlos</name>
+</font>
+</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-text">¡¡Muy feliz!! Gracias Hugo, pensé que la Guía no funcionaría porque ya había hecho todo para adelgazar, pero aun así quise probar y lucir ahora parece que soy otra persona ... ¡muchas gracias!</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-actions">
+<like>Me gusta</like>
+·
+<reply>Responder</reply>
+·
+<likes>5</likes>
+<date>3 min</date>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="fb-comments-wrapper" id="2">
+<table class="fb-comments-comment">
+<tbody>
+<tr>
+ <td rowspan="3" class="fb-comments-comment-img"><img src="files/profiles/2.jpg"></td>
+<td>
+<font class="fb-comments-comment-name">
+<name>Valentina López</name>
+</font>
+</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-text">Chicas ... no puedo creerlo, al segundo día ya perdí 2 kilos. en serio, fue la mejor inversión que hice en 2020 ..</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-actions">
+<like>Me gusta</like>
+·
+<reply>Responder</reply>
+·
+<likes>8</likes>
+<date>4 min</date>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="fb-comments-wrapper" id="3">
+<table class="fb-comments-comment">
+<tbody>
+<tr>
+<td rowspan="3" class="fb-comments-comment-img"><img src="files/profiles/3.jpg"></td>
+<td>
+<font class="fb-comments-comment-name">
+<name>Miguel González</name>
+</font>
+</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-text">¡Me sorprende este programa! N sabía que de verdad iba a funcionar, estoy en esos 7 días que huiste y adivina .... ya perdí 2 kilos, se lo recomendaré a todos mis amigos</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-actions">
+<like>Me gusta</like>
+·
+<reply>Responder</reply>
+·
+<likes>9</likes>
+<date>5 min</date>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="fb-comments-wrapper" id="4">
+<table class="fb-comments-comment">
+<tbody>
+<tr>
+<td rowspan="3" class="fb-comments-comment-img"><img src="files/profiles/4.jpg"></td>
+<td>
+<font class="fb-comments-comment-name">
+<name>Mariana Martínez</name>
+</font>
+</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-text">Realmente necesitaba este programa, encontré lo que necesitaba para mantenerme en forma 😀 mi esposo y yo lo amamos. gracias Hugo!</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-actions">
+<like>Me gusta</like>
+·
+<reply>Responder</reply>
+·
+<likes>11</likes>
+<date>12 min</date>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="fb-comments-wrapper" id="5">
+<table class="fb-comments-comment">
+<tbody>
+<tr>
+<td rowspan="3" class="fb-comments-comment-img"><img src="files/profiles/5.jpg"></td>
+<td>
+<font class="fb-comments-comment-name">
+<name>Juan Pablo</name>
+</font>
+</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-text">Hugo, deberías vender esta guía por un millón de dólares, ¡realmente funciona! Ya había hecho todo lo que podía y hasta había pensado que nunca lo lograría .. gracias a ti hoy tengo el cuerpo que siempre soñé, gracias !!!!</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-actions">
+<like>Me gusta</like>
+·
+<reply>Responder</reply>
+·
+<likes>15</likes>
+<date>19 min</date>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="fb-comments-wrapper" id="6">
+<table class="fb-comments-comment">
+<tbody>
+<tr>
+<td rowspan="3" class="fb-comments-comment-img"><img src="files/profiles/6.jpg"></td>
+<td>
+<font class="fb-comments-comment-name">
+<name>Isabella López</name>
+</font>
+</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-text">¡Mi vida cambió de la noche a la mañana! Gracias por la guía Hugo… Dios te bendiga.</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-actions">
+<like>Me gusta</like>
+·
+<reply>Responder</reply>
+·
+<likes>17</likes>
+<date>24 min</date>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="fb-comments-wrapper" id="7">
+<table class="fb-comments-comment">
+<tbody>
+<tr>
+<td rowspan="3" class="fb-comments-comment-img"><img src="files/profiles/7.jpg"></td>
+<td>
+<font class="fb-comments-comment-name">
+<name>Roberto Pérez</name>
+</font>
+</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-text">Soy entrenador personal y enseñé todo lo que aprendí a mis alumnos ... han mejorado su desempeño en tan solo unas semanas, se lo recomiendo a todos !!!</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-actions">
+<like>Me gusta</like>
+·
+<reply>Responder</reply>
+·
+<likes>18</likes>
+<date>26 min</date>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="fb-comments-wrapper" id="8">
+<table class="fb-comments-comment">
+<tbody>
+<tr>
+<td rowspan="3" class="fb-comments-comment-img"><img src="files/profiles/8.jpg">
+</td>
+<td>
+<font class="fb-comments-comment-name">
+<name>Andrea Sánchez</name>
+</font>
+</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-text">Probé todo en los últimos 6 meses para bajar de peso, ¿funcionará?</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-actions">
+<like>Me gusta</like>
+·
+<reply>Responder</reply>
+·
+<likes>22</likes>
+<date>30 min</date>
+</td>
+</tr>
+</tbody>
+ </table>
+</div>
+<div class="fb-comments-reply-wrapper" id="8-1">
+<table class="fb-comments-comment">
+<tbody>
+<tr>
+<td rowspan="3" class="fb-comments-comment-img"><img src="files/profiles/9.jpg"></td>
+<td>
+<font class="fb-comments-comment-name">
+<name>Maria Fernanda</name>
+</font>
+</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-text">Ana estaba así el año pasado sin saber qué hacer .. luego usé este programa que cambió mi vida y soy otra persona! ¡Espero que tú también puedas ...!</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-actions">
+<like>Me gusta</like>
+·
+<reply>Responder</reply>
+·
+<likes>10</likes>
+<date>23 min</date>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="fb-comments-reply-wrapper" id="8-2">
+<table class="fb-comments-comment">
+<tbody>
+<tr>
+<td rowspan="3" class="fb-comments-comment-img"><img src="files/profiles/10.jpg"></td>
+<td>
+<font class="fb-comments-comment-name">
+<name>Marco Antonio</name>
+</font>
+</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-text">Yo era como la mujer del video ... estuve obeso durante años, gracias a él logré recuperar mi vida ... lo recomiendo y mucho !!</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-actions">
+<like>Me gusta</like>
+·
+<reply>Responder</reply>
+·
+<likes>8</likes>
+<date>15 min</date>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="fb-comments-reply-wrapper" id="8-3">
+<table class="fb-comments-comment">
+<tbody>
+<tr>
+<td rowspan="3" class="fb-comments-comment-img"><img src="files/profiles/8.jpg"></td>
+<td>
+<font class="fb-comments-comment-name">
+<name>Andrea Sánchez</name>
+</font>
+</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-text">Gracias chicas, lo intentaré 🙂</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-actions">
+<like>Me gusta</like>
+·
+<reply>Responder</reply>
+·
+<likes>4</likes>
+<date>7 min</date>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="fb-comments-wrapper" id="9">
+<table class="fb-comments-comment">
+<tbody>
+<tr>
+<td rowspan="3" class="fb-comments-comment-img"><img src="files/profiles/11.jpg">
+</td>
+<td>
+<font class="fb-comments-comment-name">
+<name>Rafael Hernández</name>
+</font>
+</td>
+</tr>
+<tr>
+ <td class="fb-comments-comment-text">Sufría de diabetes, este hombre me salvó la vida ... ¡¡Estoy muy agradecido con Hugo y su equipo por enseñarme esto !!</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-actions">
+<like>Me gusta</like>
+·
+<reply>Responder</reply>
+·
+<likes>22</likes>
+<date>39 min</date>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<button class="fb-comments-loadmore" onclick="javascript:loadMore();">Ver 5 comentarios más</button>
+<div style="display:none" id="more">
+<div class="fb-comments-wrapper">
+<table class="fb-comments-comment" id="10">
+<tbody>
+<tr>
+<td rowspan="3" class="fb-comments-comment-img"><img src="files/profiles/12.jpg">
+</td>
+<td>
+<font class="fb-comments-comment-name">
+<name>Ana Sofia</name>
+</font>
+</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-text">Chicas, tengo miedo de gastar dinero y no funcionar 🙁</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-actions">
+<like>Me gusta</like>
+·
+<reply>Responder</reply>
+·
+<likes>41</likes>
+<date>1 h</date>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="fb-comments-reply-wrapper" id="10-1">
+<table class="fb-comments-comment">
+<tbody>
+<tr>
+<td rowspan="3" class="fb-comments-comment-img"><img src="files/profiles/13.jpg"></td>
+<td>
+<font class="fb-comments-comment-name">
+<name>Jorge Pereira</name>
+</font>
+</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-text">¡Pensé lo mismo, pero compraría 10 veces después de ver que ese programa realmente funciona! Ellos merecen, pues hicieron todo el cambio en mi vida</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-actions">
+<like>Me gusta</like>
+·
+<reply>Responder</reply>
+·
+<likes>18</likes>
+<date>44 min</date>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="fb-comments-reply-wrapper" id="10-2">
+<table class="fb-comments-comment">
+<tbody>
+<tr>
+<td rowspan="3" class="fb-comments-comment-img"><img src="files/profiles/14.jpg">
+</td>
+<td>
+<font class="fb-comments-comment-name">
+<name>Luciana Gandara</name>
+</font>
+</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-text">¡Sí funciona flor! Puedo creer. Lo había probado todo, este programa fue lo mejor que me pasó</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-actions">
+<like>Me gusta</like>
+·
+<reply>Responder</reply>
+·
+<likes>7</likes>
+<date>19 min</date>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="fb-comments-wrapper" id="11">
+<table class="fb-comments-comment">
+<tbody>
+<tr>
+<td rowspan="3" class="fb-comments-comment-img"><img src="files/profiles/15.jpg">
+</td>
+<td>
+<font class="fb-comments-comment-name">
+<name>Laura Flores</name>
+</font>
+</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-text">Gente, pensé que era una mentira, pero todo estaba funcionando…. Me sentía muy mal, nunca pude ponerme la ropa que quería ... llegué al punto de ir a una consulta y el médico dijo que tenía que dejar de comer y hacer dieta ... Durante años no comí comida de fast food, y haciendo dietas locas, y nada pasó bién. Con esta guía, ¡logré lo imposible! No lo puedo creer
+</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-actions">
+<like>Me gusta</like>
+·
+<reply>Responder</reply>
+·
+<likes>40</likes>
+<date>1 h</date>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="fb-comments-wrapper" id="12">
+<table class="fb-comments-comment">
+<tbody>
+<tr>
+<td rowspan="3" class="fb-comments-comment-img"><img src="files/profiles/16.jpg">
+</td>
+<td>
+<font class="fb-comments-comment-name">
+<name>Daniel Gómez</name>
+</font>
+</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-text">Hugo lo vendes muy barato! @leo_andrade este que te dije que me funcionó. ¡Puede comprar!</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-actions">
+<like>Me gusta</like>
+·
+<reply>Responder</reply>
+·
+<likes>47</likes>
+<date>1 h</date>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="fb-comments-wrapper" id="13">
+<table class="fb-comments-comment">
+<tbody>
+<tr>
+<td rowspan="3" class="fb-comments-comment-img"><img src="files/profiles/17.jpg"></td>
+<td>
+<font class="fb-comments-comment-name">
+<name>Juliana Díaz</name>
+</font>
+</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-text">Solo me peso !!!! Ahhhh, ¡no puedo creer que esté funcionando! Ya perdí 3 kilos 🙈</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-actions">
+<like>Me gusta</like>
+·
+ <reply>Responder</reply>
+·
+<likes>50</likes>
+<date>1 h</date>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="fb-comments-wrapper">
+<table class="fb-comments-comment" id="14">
+<tbody>
+<tr>
+<td rowspan="3" class="fb-comments-comment-img"><img src="files/profiles/18.jpg">
+</td>
+<td>
+<font class="fb-comments-comment-name">
+<name>Alejandro Madero</name>
+</font>
+</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-text">Compré la guía y está funcionando !!! En 6 días ya bajé 2 libras put Pondré en práctica las otras lecciones 😀</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-actions">
+<like>Me gusta</like>
+·
+<reply>Responder</reply>
+·
+<likes>66</likes>
+<date>2 h</date>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="fb-comments-reply-wrapper" id="14-1">
+<table class="fb-comments-comment">
+<tbody>
+<tr>
+<td rowspan="3" class="fb-comments-comment-img"><img src="files/profiles/19.jpg"></td>
+<td>
+<font class="fb-comments-comment-name">
+<name>Rebeca Rodríguez</name>
+</font>
+</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-text">¿Realmente funciona?</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-actions">
+<like>Me gusta</like>
+·
+<reply>Responder</reply>
+·
+<likes>29</likes>
+<date>1 h</date>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="fb-comments-reply-wrapper" id="14-2">
+<table class="fb-comments-comment">
+<tbody>
+<tr>
+<td rowspan="3" class="fb-comments-comment-img"><img src="files/profiles/18.jpg">
+</td>
+<td>
+<font class="fb-comments-comment-name">
+<name>Alejandro Madero</name>
+</font>
+</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-text">Hice todo lo que él enseña desde que lo compré y fue como si él no hablara en la guía. Mi abdomen empieza a aparecer jajaja</td>
+</tr>
+<tr>
+<td class="fb-comments-comment-actions">
+<like>Me gusta</like>
+·
+<reply>Responder</reply>
+·
+<likes>11</likes>
+<date>1 h</date>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="mt-3 mb-4 text-center hide" id="btn2">
+<a href="https://go.hotmart.com/D65042784O?ap=0b3e" class="a-btn" style="text-decoration: none;">
+<span class="span-btn">¡QUIERO HACER EL PROGRAMA!</span>
+<span class="span-btn2">(atención: espacios limitados)</span>
+</a>
+<div class="cards mt-3">
+<img class="img-fluid" src="files/cards/MASTER_CARD.svg"></img>
+<img class="img-fluid" src="files/cards/VISA.svg"></img>
+<img class="img-fluid" src="files/cards/AMEX.svg"></img>
+<img class="img-fluid" src="files/cards/PAYPAL.svg"></img>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-md-6 pirataria">
+<h3> LA PIRATERÍA ES <b>DELITO</b></h3>
+La venta de Quema de Grasa en 3 Semanas solo se puede realizar a través de este sitio web, registrado a nombre de Quema de Grasa en 3 Semanas. Cualquier otro sitio web en el que encuentre este programa es FALSO y es ilegal. Evite la falsificación y rechace el contenido ilegal o pirateado. NO compre programas similares que no estén basados ​​en años de estudio de psicología del comportamiento. No somos responsables de las compras realizadas en otros sitios.
+</div>
+<div class="col-xs-12 col-md-6">
+<div class="row cpy">
+<div class="col text-center">
+Copyright 2022 - Quema de Grasa en 3 Semanas ®<br>
+Todos los derechos reservados.
+</div>
+</div>
+<div class="row links">
+<div class="col text-center">
+<a href="/terms" target="_blank">Terminos de Uso</a>
+<a href="/policy" target="_blank">Política de Privacidad</a>
+</div>
+</div>
+</div>
+</div>
+<div class="row justify-content-center">
+<div class="col-md-12 text-center" style="font-size: 11px; padding: 40px 0px 20px 0px; color: #b7adad;">
+<b>Este sitio no está afiliado a Facebook ni a ninguna entidad de Facebook. Después de salir de Facebook, la responsabilidad no es de ellos, sino de nuestro sitio web. Hacemos todo lo posible para indicar y mostrar claramente todas las pruebas del producto y utilizar resultados reales. No vendemos su correo electrónico ni ninguna información a terceros. Nunca hacemos ningún tipo de spam. Si tiene alguna pregunta, no dude en utilizar el enlace de contacto y hablar con nosotros durante el horario comercial de lunes a viernes de 9:00 a. M. A 6:00 p. M. Leemos y respondemos todos los mensajes por orden de llegada.
+</div>
+</div>
+</div>
+</footer>
+<script>
+    function showBtn () {
+      document.getElementById("btn").classList.remove("hide")
+      document.getElementById("btn2").classList.remove("hide")
+    }
+    setTimeout(showBtn, 1680000)
+  </script>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+<script src="files/com.js"></script>
+</body>
+</html>
